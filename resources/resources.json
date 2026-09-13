@@ -1500,6 +1500,54 @@
       "featured": true
     },
     {
+      "id": "ios-yingshi-app",
+      "name": "iOS影视APP",
+      "url": "https://b.zhuiju.me/archives/23/",
+      "category": "video_app",
+      "summary": "各类可用 iOS 影视 APP 合集。",
+      "summary_short": "各类可用APP合集",
+      "platforms": [
+        "iOS"
+      ],
+      "tags": [
+        "影视APP",
+        "iOS",
+        "追剧",
+        "应用合集"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "free",
+        "regions": [
+          "CN"
+        ]
+      },
+      "scores": {
+        "more": 4,
+        "speed": 4,
+        "clean": 4,
+        "stable": 4,
+        "ease": 4
+      },
+      "risks": {
+        "copyright": "high",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "unknown"
+      },
+      "verification": {
+        "status": "caution",
+        "last_checked": "2026-09-13",
+        "method": "manual",
+        "notes": "维护者亲测收录多款通过伪装方式在 App Store 上架的免费 iOS 影视 APP；应用含广告，上架状态、内容来源、版权及隐私安全需要持续观察。"
+      },
+      "source": {
+        "submitted_by": "maintainer",
+        "added_at": "2026-09-13"
+      },
+      "featured": true
+    },
+    {
       "id": "zimuku",
       "name": "字幕库",
       "url": "https://zimuku.org",

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-13T01:04:28.825Z",
+  "generated_at": "2026-09-13T05:14:41.065Z",
   "checker": {
     "environment": "github-actions",
     "timeout_ms": 15000,
@@ -1062,6 +1062,17 @@
       "final_url": "https://skr.skr1.cc:666/",
       "response_ms": 1366,
       "checked_at": "2026-09-13T01:04:27.459Z",
+      "attempts": 1,
+      "error": null
+    },
+    {
+      "resource_id": "ios-yingshi-app",
+      "url": "https://b.zhuiju.me/archives/23/",
+      "status": "reachable",
+      "http_status": 200,
+      "final_url": "https://b.zhuiju.me/archives/23/",
+      "response_ms": null,
+      "checked_at": "2026-09-13T05:14:41.065Z",
       "attempts": 1,
       "error": null
     }
