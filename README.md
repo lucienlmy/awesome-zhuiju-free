@@ -25,7 +25,7 @@
   <!-- resource-count:start -->
 <a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-128_个资源-00A98F?style=flat-square" alt="已收录 128 个资源" height="24"></a>
 <!-- resource-count:end -->
-  <a href="https://github.com/laoma528/awesome-zhuiju-free/actions/workflows/check-availability.yml"><img src="https://img.shields.io/badge/检测时间-2026--11--22-00B4D8?style=flat-square" alt="检测时间 2026-11-22" height="24"></a>
+  <a href="https://github.com/laoma528/awesome-zhuiju-free/actions/workflows/check-availability.yml"><img src="https://img.shields.io/badge/检测时间-2026--11--23-00B4D8?style=flat-square" alt="检测时间 2026-11-23" height="24"></a>
   <a href="https://github.com/laoma528/awesome-zhuiju-free/stargazers"><img src="https://img.shields.io/github/stars/laoma528/awesome-zhuiju-free?style=flat-square&label=Stars&color=F7B801" alt="GitHub Stars" height="24"></a>
   <a href="https://github.com/laoma528/awesome-zhuiju-free/forks"><img src="https://img.shields.io/github/forks/laoma528/awesome-zhuiju-free?style=flat-square&label=Forks&color=38BDF8" alt="GitHub Forks" height="24"></a>
   <a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://img.shields.io/badge/许可证-CC_BY_4.0-6F42C1?style=flat-square" alt="许可证 CC BY 4.0" height="24"></a>
@@ -116,7 +116,7 @@
 | [歪比巴卜](<https://wbbb1.com/>) | 高清视频免费在线观看（可访问） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:wbbb -->🔴&#8288;无法&#8288;访问<!-- /availability:wbbb --> | <!-- availability-date:wbbb -->2026&#8209;11&#8209;23<!-- /availability-date:wbbb --> |
 | [开心影院](<https://www.kxyy1.cc/>) | 最新电影热播电视剧 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:kxyy -->🔴&#8288;无法&#8288;访问<!-- /availability:kxyy --> | <!-- availability-date:kxyy -->2026&#8209;11&#8209;23<!-- /availability-date:kxyy --> |
 | [豆花电影网](<https://dhvideo.cc/>) | 最新免费电影_在线观看 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:dhvideo -->🟢&#8288;可&#8288;访问<!-- /availability:dhvideo --> | <!-- availability-date:dhvideo -->2026&#8209;11&#8209;23<!-- /availability-date:dhvideo --> |
-| [饭搭子影视](<https://fdzys.com>) | 最新热门电影电视剧动漫综艺 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:fdzys -->🔴&#8288;无法&#8288;访问<!-- /availability:fdzys --> | <!-- availability-date:fdzys -->2026&#8209;11&#8209;23<!-- /availability-date:fdzys --> |
+| [饭搭子影视](<https://fdzys.com>) | 最新热门电影电视剧动漫综艺 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:fdzys -->🟢&#8288;可&#8288;访问<!-- /availability:fdzys --> | <!-- availability-date:fdzys -->2026&#8209;11&#8209;23<!-- /availability-date:fdzys --> |
 | [SA视频](<https://www.lsjys11.com/>) | 最新电影电视剧动漫综艺（可访问） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:sa-video -->🟢&#8288;可&#8288;访问<!-- /availability:sa-video --> | <!-- availability-date:sa-video -->2026&#8209;11&#8209;23<!-- /availability-date:sa-video --> |
 | [91毒舌](<https://www.duse0.com/>) | 最新Netflix新剧、4K高清（可访问） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:duse91 -->🔴&#8288;无法&#8288;访问<!-- /availability:duse91 --> | <!-- availability-date:duse91 -->2026&#8209;11&#8209;23<!-- /availability-date:duse91 --> |
 | [好好看](<https://www.hhkan2.com/>) | 4K高清Netflix新剧（可访问需梯子） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:haohaokan -->🔴&#8288;无法&#8288;访问<!-- /availability:haohaokan --> | <!-- availability-date:haohaokan -->2026&#8209;11&#8209;23<!-- /availability-date:haohaokan --> |
@@ -231,7 +231,7 @@
 | [ACG.RIP](<https://acg.rip/>) | 磁力为主的动漫、OST发布，无广 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:acg-rip-10 -->🟢&#8288;可&#8288;访问<!-- /availability:acg-rip-10 --> | <!-- availability-date:acg-rip-10 -->2026&#8209;11&#8209;23<!-- /availability-date:acg-rip-10 --> |
 | [电影港网](<https://www.dyg22.com>) | 无水印4K高清BT种子资源 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:dianyinggang -->🟢&#8288;可&#8288;访问<!-- /availability:dianyinggang --> | <!-- availability-date:dianyinggang -->2026&#8209;11&#8209;23<!-- /availability-date:dianyinggang --> |
 | [高清MP4](<https://www.mp4ba.vip>) | 免费1080电影4K电影 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:gaoqing-mp4 -->🟡&#8288;访问&#8288;受限<!-- /availability:gaoqing-mp4 --> | <!-- availability-date:gaoqing-mp4 -->2026&#8209;11&#8209;23<!-- /availability-date:gaoqing-mp4 --> |
-| [高清族](<https://hdzu.org>) | 1080P电影下载,4K电影下载 | 🌟&#8288;🌟&#8288;🌟 | <!-- availability:gaoqingzu -->🟡&#8288;访问&#8288;受限<!-- /availability:gaoqingzu --> | <!-- availability-date:gaoqingzu -->2026&#8209;11&#8209;23<!-- /availability-date:gaoqingzu --> |
+| [高清族](<https://hdzu.org>) | 1080P电影下载,4K电影下载 | 🌟&#8288;🌟&#8288;🌟 | <!-- availability:gaoqingzu -->🟢&#8288;可&#8288;访问<!-- /availability:gaoqingzu --> | <!-- availability-date:gaoqingzu -->2026&#8209;11&#8209;23<!-- /availability-date:gaoqingzu --> |
 | [磁力狗](<https://ciligou.net>) | 干净好用的磁力资源搜索 | 🌟&#8288;🌟&#8288;🌟 | <!-- availability:ciligou -->🟢&#8288;可&#8288;访问<!-- /availability:ciligou --> | <!-- availability-date:ciligou -->2026&#8209;11&#8209;23<!-- /availability-date:ciligou --> |
 
 <p align="right"><a href="#精选资源">返回分类导航</a></p>
@@ -270,9 +270,9 @@
 | [摸鱼儿](<https://www.y456y.com>) | `http://www.y456y.com` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:mo-yu-er -->🟢&#8288;可&#8288;访问<!-- /availability:mo-yu-er --> | <!-- availability-date:mo-yu-er -->2026&#8209;11&#8209;23<!-- /availability-date:mo-yu-er --> |
 | [王二小](<https://www.王二小放牛娃.top>) | `http://new.王二小放牛娃.top` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:wang-er-xiao -->🟢&#8288;可&#8288;访问<!-- /availability:wang-er-xiao --> | <!-- availability-date:wang-er-xiao -->2026&#8209;11&#8209;23<!-- /availability-date:wang-er-xiao --> |
 | [影仓](<https://124.71.19.220/>) | `http://124.71.19.220/c/1` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:ying-cang-tvbox -->🟢&#8288;可&#8288;访问<!-- /availability:ying-cang-tvbox --> | <!-- availability-date:ying-cang-tvbox -->2026&#8209;11&#8209;23<!-- /availability-date:ying-cang-tvbox --> |
-| 肥猫 | `http://肥猫.net/` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:fei-mao -->🔴&#8288;无法&#8288;访问<!-- /availability:fei-mao --> | <!-- availability-date:fei-mao -->2026&#8209;11&#8209;23<!-- /availability-date:fei-mao --> |
+| 肥猫 | `http://肥猫.net/` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:fei-mao -->🟢&#8288;可&#8288;访问<!-- /availability:fei-mao --> | <!-- availability-date:fei-mao -->2026&#8209;11&#8209;23<!-- /availability-date:fei-mao --> |
 | 小盒子4K | `http://xhztv.top/4k.json` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:xiao-he-zi-4k -->🟢&#8288;可&#8288;访问<!-- /availability:xiao-he-zi-4k --> | <!-- availability-date:xiao-he-zi-4k -->2026&#8209;11&#8209;23<!-- /availability-date:xiao-he-zi-4k --> |
-| 创享影视 | `https://ys.cxkjg.cn/api/provide/tvbox` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:chuang-xiang-ying-shi-tvbox -->🔴&#8288;无法&#8288;访问<!-- /availability:chuang-xiang-ying-shi-tvbox --> | <!-- availability-date:chuang-xiang-ying-shi-tvbox -->2026&#8209;11&#8209;23<!-- /availability-date:chuang-xiang-ying-shi-tvbox --> |
+| 创享影视 | `https://ys.cxkjg.cn/api/provide/tvbox` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:chuang-xiang-ying-shi-tvbox -->🟢&#8288;可&#8288;访问<!-- /availability:chuang-xiang-ying-shi-tvbox --> | <!-- availability-date:chuang-xiang-ying-shi-tvbox -->2026&#8209;11&#8209;23<!-- /availability-date:chuang-xiang-ying-shi-tvbox --> |
 | 老刘备 | `https://raw.liucn.cc/box/m.json` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:lao-liu-bei -->🟢&#8288;可&#8288;访问<!-- /availability:lao-liu-bei --> | <!-- availability-date:lao-liu-bei -->2026&#8209;11&#8209;23<!-- /availability-date:lao-liu-bei --> |
 | 小马 | `https://szyyds.cn/tv/x.json` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:xiao-ma -->🟢&#8288;可&#8288;访问<!-- /availability:xiao-ma --> | <!-- availability-date:xiao-ma -->2026&#8209;11&#8209;23<!-- /availability-date:xiao-ma --> |
 | 小盒子单仓 | `http://xhztv.top/xhz` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:xiao-he-zi-single -->🟢&#8288;可&#8288;访问<!-- /availability:xiao-he-zi-single --> | <!-- availability-date:xiao-he-zi-single -->2026&#8209;11&#8209;23<!-- /availability-date:xiao-he-zi-single --> |
@@ -294,7 +294,7 @@
 | --- | --- | :---: | :---: | :---: |
 | VMA | `https://pan.vma.cc/down.php/f83b92a24d61858666f13c5db938a292.txt` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:vma-iptv-source -->🟢&#8288;可&#8288;访问<!-- /availability:vma-iptv-source --> | <!-- availability-date:vma-iptv-source -->2026&#8209;11&#8209;23<!-- /availability-date:vma-iptv-source --> |
 | 饭太硬 | `http://www.饭太硬.cc/tv` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:fan-tai-ying-iptv -->🟢&#8288;可&#8288;访问<!-- /availability:fan-tai-ying-iptv --> | <!-- availability-date:fan-tai-ying-iptv -->2026&#8209;11&#8209;23<!-- /availability-date:fan-tai-ying-iptv --> |
-| 肥猫 | `http://肥猫.net/tv` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:fei-mao-iptv -->🔴&#8288;无法&#8288;访问<!-- /availability:fei-mao-iptv --> | <!-- availability-date:fei-mao-iptv -->2026&#8209;11&#8209;23<!-- /availability-date:fei-mao-iptv --> |
+| 肥猫 | `http://肥猫.net/tv` | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:fei-mao-iptv -->🟢&#8288;可&#8288;访问<!-- /availability:fei-mao-iptv --> | <!-- availability-date:fei-mao-iptv -->2026&#8209;11&#8209;23<!-- /availability-date:fei-mao-iptv --> |
 
 <p align="right"><a href="#精选资源">返回分类导航</a></p>
 
